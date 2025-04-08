@@ -1,0 +1,11 @@
+population,test,p-value
+b_cell,t_test,0.5974659421936251
+b_cell,Wilcoxon,0.5150822787096432
+cd8_t_cell,t_test,0.8334845817349209
+cd8_t_cell,Wilcoxon,1.0
+cd4_t_cell,t_test,0.008350925121947609
+cd4_t_cell,Wilcoxon,0.038055920999867786
+nk_cell,t_test,0.24021030035486787
+nk_cell,Wilcoxon,0.2373017786499999
+monocyte,t_test,0.03350772741676288
+monocyte,Wilcoxon,0.05182179383210158
