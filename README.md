@@ -10,4 +10,9 @@ The queries and responses to the questions can be found in the markdown document
 
 Any output files, including an updated CSV file, a saved image of boxplots, and a CSV file containing the results of the wilcoxon rank sum tests and two sample t tests can be found in the output_files directory.
 
-
+# Dependencies
+Neccesary packages to be installed in order to run the python code include:
+* pandas
+* numpy
+* scipy
+* plotnine
